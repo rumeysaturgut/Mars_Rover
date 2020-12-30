@@ -1,0 +1,7 @@
+C:\Users\MONSTER\Desktop\Mars-Rover\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\Mars-Rover\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Mars-Rover\Program\Program\bin\Debug\Program.exe.config
+C:\Users\MONSTER\Desktop\Mars-Rover\Program\Program\bin\Debug\Program.exe
+C:\Users\MONSTER\Desktop\Mars-Rover\Program\Program\bin\Debug\Program.pdb
+C:\Users\MONSTER\Desktop\Mars-Rover\Program\Program\obj\Debug\Program.exe
+C:\Users\MONSTER\Desktop\Mars-Rover\Program\Program\obj\Debug\Program.pdb
